@@ -1,7 +1,7 @@
 # Programação Competitiva (C++)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Problemas resolvidos](https://img.shields.io/badge/Problemas%20resolvidos-0-2ea44f?style=for-the-badge)](#progresso)
+[![Problemas resolvidos](https://img.shields.io/badge/Problemas%20resolvidos-2-2ea44f?style=for-the-badge)](#progresso)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Sena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sena-dev/)
 [![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow?style=for-the-badge)](LICENSE)
 
@@ -105,8 +105,8 @@ As resoluções deste repositório são provenientes principalmente das seguinte
 | :--------- | -------------------: |
 | Beecrowd   |                    0 |
 | Codeforces |                    0 |
-| CSES       |                    0 |
-| LeetCode   |                    0 |
-| **Total**  |                **0** |
+| CSES       |                    1 |
+| LeetCode   |                    1 |
+| **Total**  |                **2** |
 
 > A tabela e o badge de problemas resolvidos serão atualizados conforme novas soluções forem adicionadas.
