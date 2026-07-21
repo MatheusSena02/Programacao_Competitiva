@@ -107,6 +107,6 @@ As resoluções deste repositório são provenientes principalmente das seguinte
 | Codeforces |                    0 |
 | CSES       |                    2 |
 | LeetCode   |                    1 |
-| **Total**  |                **2** |
+| **Total**  |                **3** |
 
 > A tabela e o badge de problemas resolvidos serão atualizados conforme novas soluções forem adicionadas.
